@@ -8,7 +8,7 @@ services:
     image: kobotoolbox/kobocat:2.024.19
     hostname: kobocat
     env_file:
-      - ../env/envfile.txt
+      - /env/envfile.txt
       - ../env/envfiles/databases.txt
       - ../env/envfiles/aws.txt
       - ../env/envfiles/external_services.txt
