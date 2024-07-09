@@ -13,3 +13,4 @@ stop-env.sh
 nginx/maintenance/index.html
 .uniqid
 .DS_Store
+/.vs/kobo-docker/FileContentIndex
